@@ -56,4 +56,5 @@ Placar: 4 x 2
 
 ---
 
-Desenvolvido para fins
+Desenvolvido para fins de estudo, Luis Tavares sobre orientação do professor Valdemar Lorenzon Junior.
+
